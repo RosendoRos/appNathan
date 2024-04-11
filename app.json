@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "client",
+    "slug": "client",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.neithan151402.client"
+    },
+    "android": {
+      "package": "com.neithan151402.client"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8a3a1896-d130-46f9-9db7-c11b5e060c26"
+      }
+    }
+  }
+}
